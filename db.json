@@ -1,0 +1,242 @@
+{
+  "employees": [
+    {
+      "id": "3",
+      "name": "Sonia",
+      "gender": "Female",
+      "title": "UI/UX Designer",
+      "salary": "3000",
+      "phone": "555-2345",
+      "email": "sonia@gmail.com",
+      "animal": "Deer",
+      "startDate": "2020-06-01",
+      "location": "Vanta",
+      "department": "Testing",
+      "skills": [
+        "Figma",
+        "User Research",
+        "testing",
+        "sdfsf",
+        "asff"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Fizza",
+      "gender": "Female",
+      "title": "DevOps Engineer",
+      "salary": "4000",
+      "phone": "555-876512",
+      "email": "fizza@gmail.com",
+      "animal": "Rabbit",
+      "startDate": "2025-02-20",
+      "location": "Pakistan",
+      "department": "Backend Developer",
+      "skills": [
+        "AWS",
+        " Docker",
+        " CI/CD",
+        " testing",
+        "laravel"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Devesh",
+      "gender": "Male",
+      "title": "Data Scientist",
+      "salary": "3000",
+      "phone": "555-1357",
+      "email": "devesh@gmail.com",
+      "animal": "JellyFish",
+      "startDate": "2015-6-01",
+      "location": "Chennai",
+      "department": "Data",
+      "skills": [
+        "Python",
+        "  Machine Learning",
+        ""
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Pragadhish",
+      "gender": "Male",
+      "title": "Marketing Specialist",
+      "salary": "4000",
+      "phone": "555-2468",
+      "email": "pragadhish@gmail.com",
+      "animal": "Lion",
+      "startDate": "2020-08-12",
+      "location": "Finland",
+      "department": "Manager",
+      "skills": [
+        "SEO",
+        "Content Strategy",
+        "Google Ads"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Margit Tennosar",
+      "gender": "Female",
+      "title": "Developer",
+      "salary": 8000,
+      "phone": "555-3691",
+      "email": "margit@gmail.com",
+      "animal": "Fox",
+      "startDate": "2010-05-23",
+      "location": "Estonia",
+      "department": "Web Developer",
+      "skills": [
+        "React",
+        "Javascript",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Santosh",
+      "gender": "Male",
+      "title": "Backend Developer",
+      "salary": 7000,
+      "phone": "555-7410",
+      "email": "santosh@gmail.com",
+      "animal": "Turtle",
+      "startDate": "2019-05-30",
+      "location": "Phoenix",
+      "department": "Web Developer",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "Docker"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Keerthana",
+      "gender": "Female",
+      "title": "QA Engineer",
+      "salary": 5000,
+      "phone": "555-3691",
+      "email": "keerthana@gmail.com",
+      "animal": "Owl",
+      "startDate": "2024-12-23",
+      "location": "Denver",
+      "department": "Engineering",
+      "skills": [
+        "Selenium",
+        "Jest",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Praveen",
+      "gender": "Male",
+      "title": "Finance Analyst",
+      "salary": 5000,
+      "phone": "555-9630",
+      "email": "praveen@gmail.com",
+      "animal": "Whale",
+      "startDate": "2024-10-05",
+      "location": "Los Angeles",
+      "department": "Finance",
+      "skills": [
+        "Excel",
+        "Forecasting",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "id": "e9b7",
+      "name": "Sathish",
+      "gender": "Male",
+      "title": "Architecture",
+      "salary": "5000",
+      "phone": "4592355",
+      "email": "satish@gmail.com",
+      "animal": "Bee",
+      "startDate": "12.10.2010",
+      "location": "Helsinki",
+      "department": "Information Technology",
+      "skills": [
+        "architech",
+        " testing",
+        " developing"
+      ]
+    },
+    {
+      "id": "6ea4",
+      "name": "eweqre",
+      "gender": "Male",
+      "title": "2ee",
+      "salary": 4439,
+      "phone": "2424",
+      "email": "devesh@gmail.com",
+      "animal": "Bee",
+      "startDate": "12.10.2020",
+      "location": "Espoo",
+      "department": "werewr",
+      "skills": [
+        "testing",
+        " developing"
+      ]
+    },
+    {
+      "id": "7196",
+      "name": "Suganya",
+      "gender": "Female",
+      "title": "sdff",
+      "salary": 23123,
+      "phone": "1231233",
+      "email": "suganya@gmail.com",
+      "animal": "Elephant",
+      "startDate": "2025-04-20",
+      "location": "Espoo",
+      "department": "wewef",
+      "skills": [
+        "2",
+        "4",
+        "3"
+      ]
+    },
+    {
+      "id": "695f",
+      "name": "efwef",
+      "gender": "Male",
+      "title": "wefwefg",
+      "salary": 213123,
+      "phone": "2321344",
+      "email": "prabagarane@gmail.com",
+      "animal": "Deer",
+      "startDate": "2025-06-18",
+      "location": "qwdw",
+      "department": "erderf",
+      "skills": [
+        "3rdfwf",
+        "wefwef",
+        "werfwef",
+        "wefw",
+        "f"
+      ]
+    },
+    {
+      "id": "7dbf",
+      "name": "Test 10",
+      "gender": "Female",
+      "title": "testing",
+      "salary": 2000,
+      "phone": "24424",
+      "email": "suganya@gmail.com",
+      "animal": "Elephant",
+      "startDate": "2025-06-01",
+      "location": "Espoo",
+      "department": "it",
+      "skills": [
+        "testing",
+        " developing"
+      ]
+    }
+  ]
+}
