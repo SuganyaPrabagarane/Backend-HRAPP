@@ -9,15 +9,13 @@
       "phone": "555-2345",
       "email": "sonia@gmail.com",
       "animal": "Deer",
-      "startDate": "2020-06-01",
+      "startDate": "2020-07-31",
       "location": "Vanta",
       "department": "Testing",
       "skills": [
         "Figma",
         "User Research",
-        "testing",
-        "sdfsf",
-        "asff"
+        "testing"
       ]
     },
     {
@@ -49,7 +47,7 @@
       "phone": "555-1357",
       "email": "devesh@gmail.com",
       "animal": "JellyFish",
-      "startDate": "2015-6-01",
+      "startDate": "2015-7-31",
       "location": "Chennai",
       "department": "Data",
       "skills": [
@@ -156,7 +154,7 @@
       "phone": "4592355",
       "email": "satish@gmail.com",
       "animal": "Bee",
-      "startDate": "12.10.2010",
+      "startDate":"2010-07-31",
       "location": "Helsinki",
       "department": "Information Technology",
       "skills": [
@@ -235,6 +233,25 @@
       "skills": [
         "testing",
         " developing"
+      ]
+    },
+    {
+      "id": "0095",
+      "name": "testins",
+      "gender": "Male",
+      "title": "w3efef",
+      "salary": 124214,
+      "phone": "24244",
+      "email": "devesh@gmail.com",
+      "animal": "Lion",
+      "startDate": "2020-07-31",
+      "location": "Turku",
+      "department": "wewef",
+      "skills": [
+        "2",
+        "3",
+        "4",
+        "5"
       ]
     }
   ]
